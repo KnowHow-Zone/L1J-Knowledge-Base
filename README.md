@@ -1,4 +1,4 @@
-# L1J Knowledge Domain (L1JKB)
+# L1J Knowledge Base (L1JKB)
 
 ---
 
