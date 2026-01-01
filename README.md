@@ -3,13 +3,14 @@
 ---
 
 ## 📑 導覽 / Navigation
-- [English - Disclaimer and Project Information](#english-disclaimer-and-project-information)
-- [简体中文 - 项目说明与免责声明](#简体中文-项目说明与免责声明)
-- [繁體中文 - 專案說明與免責聲明](#繁體中文-專案說明與免責聲明)
-- [File Download Link](#file-download-link)
+- [English - Disclaimer and Project Information](#en-info)
+- [简体中文 - 项目说明与免责声明](#cn-info)
+- [繁體中文 - 專案說明與免責聲明](#tw-info)
+- [File Download Link](#download)
 
 ---
 
+<a id="en-info"></a>
 ### English Disclaimer and Project Information
 1. **Educational Purpose**: This project is an open-source research initiative based on the Java language, designed strictly for academic study of network frameworks (NIO), asynchronous communication, and SQL database management.
 2. **File Source**: The source code originates from files circulated on the Internet, featuring predominantly Korean comments. It is presumed to be provided by Korean technology enthusiasts and distributed through the community.
@@ -21,6 +22,7 @@
 
 ---
 
+<a id="cn-info"></a>
 ### 简体中文 项目说明与免责声明
 1. **研究目的**：本项目为基于 Java 语言开发的网络游戏架构研究项目，仅供个人学习 Java 语法、NIO 异步通讯及 SQL 数据库管理的学术用途。
 2. **档案来源**：本项目源代码来源于网络公开流传之档案，内容包含大量韩文注释，推测早期由韩国技术爱好者开发并经社区辗转流传。
@@ -32,6 +34,7 @@
 
 ---
 
+<a id="tw-info"></a>
 ### 繁體中文 專案說明與免責聲明
 1. **研究目的**：本專案為基於 Java 語言開發之網路遊戲架構研究專案，僅供個人學習 Java 語法、NIO 異步通訊及 SQL 資料庫管理之學術用途。
 2. **檔案來源**：本專案原始碼來源於網路公開流傳之檔案，內容包含大量韓文註解，推測早期由韓國技術愛好者開發並經社群輾轉流傳。
@@ -43,6 +46,7 @@
 
 ---
 
+<a id="download"></a>
 ### File Download Link
 
 | Item | Details |
