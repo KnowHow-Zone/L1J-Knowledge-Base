@@ -29,5 +29,5 @@
 
 ---
 
-Lineage 1 Java Client Download Link: https://rebun.infini-cloud.net/share/13326043e21114c9
-Lineage 1 Java Client Download Password: L1J-Knowledge-Base-Server
+**Lineage 1 Java Client Download Link** : https://rebun.infini-cloud.net/share/13326043e21114c9
+**Lineage 1 Java Client Download Password** : L1J-Knowledge-Base-Server
