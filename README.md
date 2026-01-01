@@ -28,3 +28,6 @@
 5. **配合撤除**：本專案尊重智慧財產權。若版權持有人認為本研究有侵權疑慮，請來信告知：[您的聯繫信箱]。我們將在核實身分後，於第一時間關閉服務並移除相關內容。
 
 ---
+
+Lineage 1 Java Client Download Link: https://rebun.infini-cloud.net/share/13326043e21114c9
+Lineage 1 Java Client Download Password: L1J-Knowledge-Base-Server
